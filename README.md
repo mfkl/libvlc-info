@@ -26,9 +26,13 @@ http://nightlies.videolan.org/build/ **Nightly builds** for most platforms.
 
 http://streams.videolan.org/ **Streams and samples** for testing
 
-`#videolan` on irc.freenode.org The official VideoLAN IRC channel
+`#videolan` on irc.freenode.org The official VideoLAN **IRC channel**
 
-https://twitter.com/videolan The official VideoLAN Twitter account
+https://twitter.com/videolan The official VideoLAN **Twitter account**
+
+https://wiki.videolan.org/hotkeys_table/ VLC desktop **hotkeys table**
+
+https://stackoverflow.com/a/9422315/4064749 Retrieve **VLC logs** from the GUI
 
 ## Unofficial channels
 
