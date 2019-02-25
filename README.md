@@ -34,6 +34,8 @@ https://wiki.videolan.org/hotkeys_table/ VLC desktop **hotkeys table**
 
 https://stackoverflow.com/a/9422315/4064749 Retrieve **VLC logs** from the GUI
 
+https://wiki.videolan.org/Bounties/ VLC **Bounties** list
+
 ## Unofficial channels
 
 https://www.reddit.com/r/vlc Community subreddit around VLC projects
