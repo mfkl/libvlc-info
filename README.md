@@ -10,6 +10,8 @@ https://forum.videolan.org/ The official VideoLAN **forum**. Goldmine of informa
 
 https://wiki.videolan.org/Main_Page/ The official VideoLAN **Wiki**. Some parts are a bit outdated, some still relevant. Many useful links.
 
+https://wiki.videolan.org/Code_of_Conduct/ The official VideoLAN **Code of Conduct**
+
 https://www.videolan.org/developers/vlc/doc/doxygen/html/group__libvlc.html The official VideoLAN doxygen **developer documentation**. If you interact with LibVLC, even through a wrapper, this might be useful to you.
 
 https://trac.videolan.org/vlc The official VideoLAN **bug tracking website**. It concerns mostly VLC desktop and libvlc core bugs (not mobile apps or bindings).
@@ -41,3 +43,5 @@ https://wiki.videolan.org/Bounties/ VLC **Bounties** list
 https://www.reddit.com/r/vlc Community subreddit around VLC projects
 
 https://stackoverflow.com/questions/tagged/vlc+libvlc StackOverflow questions tagged [libvlc][vlc] on the popular Q&A site
+
+https://stackoverflow.com/questions/tagged/libvlcsharp StackOverflow questions tagged [LibVLCSharp]
